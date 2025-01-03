@@ -1,0 +1,80 @@
+  body {
+            background-image: url('wallpaper.jpg'); /* Correct syntax */
+            background-size: cover; /* Ensure the image covers the entire background */
+            background-repeat: no-repeat; /* Prevent tiling */
+            background-position: center; /* Center the image */
+        }
+     .content {
+           padding: 20px;
+           background-color: #043477 ; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; 
+        font-family: cursive;
+        color: white;
+        }
+
+        h1 { font-family: cursive;
+
+      .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: white;
+  background-color:
+#6F946B;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 10px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+h1 {font-size: 20px}
+
+/* Box styling for better visibility */
+.text-box {
+    background-color: rgba(255, 255, 255, 0.8); /* White background with opacity */
+    padding: 20px; /* Adds space around the text */
+    border-radius: 10px; /* Rounded corners for the box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow to make the box pop */
+    max-width: 800px; /* Limits the width of the box */
+    margin: 20px auto; /* Centers the box on the page */
+    color: #333; /* Dark text for contrast */
+}
+
+.text-box h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.text-box p {
+    font-size: 16px;
+}
+
+ul {font-size: 22px}
+
+      .header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .content {
+           padding: 20px;
+      
+        }
+  
